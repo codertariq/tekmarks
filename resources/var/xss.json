@@ -1,0 +1,19 @@
+{
+	"api/message/compose" : ["body"],
+	"api/message/reply"   : ["body"],
+	"api/email-template/*": ["body"],
+	"api/article/*"       : ["description"],
+	"api/article"         : ["description"],
+	"api/event/*"         : ["description"],
+	"api/event"           : ["description"],
+	"api/frontend/page/*" : ["body"],
+	"api/frontend/page"   : ["body"],
+	"api/academic/certificate/template/*" : ["body"],
+	"api/academic/certificate/template"   : ["body"],
+	"api/certificate/*" : ["body"],
+	"api/certificate"   : ["body"],
+	"api/assignment"   : ["description"],
+	"api/assignment/*" : ["description"],
+	"api/notes"   : ["description"],
+	"api/notes/*" : ["description"]
+}
